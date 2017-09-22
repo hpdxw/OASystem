@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+*.bak
 
 # Package Files #
 *.jar
@@ -11,7 +12,7 @@
 *.zip
 *.tar.gz
 *.rar
-
+ 
 ### IntelliJ IDEA ###
 .idea
 *.iws

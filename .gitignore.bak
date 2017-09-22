@@ -11,7 +11,7 @@
 *.zip
 *.tar.gz
 *.rar
-
+ 
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -35,7 +35,3 @@ target/
 .project
 .classpath
 
-###my own###
-logs
-target
-jdbc-druid-config.properties
