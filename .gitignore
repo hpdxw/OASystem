@@ -19,10 +19,19 @@
 *.ipr
 
 ### eclipse ###
-.settings
+.settings/
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.loadpath
+*.xsd
+.project
+.classpath
 
-
-###my own###
-logs
-target
-jdbc-druid-config.properties

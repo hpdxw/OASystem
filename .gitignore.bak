@@ -18,6 +18,23 @@
 *.iml
 *.ipr
 
+### eclipse ###
+.settings/
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.loadpath
+*.xsd
+.project
+.classpath
+
 ###my own###
 logs
 target
